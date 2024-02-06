@@ -1,0 +1,364 @@
+[17-Jan-2019 09:42:49 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 09:42:49 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[17-Jan-2019 09:42:49 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[17-Jan-2019 09:51:10 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 09:51:10 Africa/Lagos] PHP Notice:  Undefined index: ppor in /home/wwwelshcon/public_html/requisition/addcashpor.php on line 10
+[17-Jan-2019 09:53:08 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 09:53:08 Africa/Lagos] PHP Notice:  Undefined index: ppor in /home/wwwelshcon/public_html/requisition/addcashpor.php on line 10
+[17-Jan-2019 09:55:19 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 09:55:19 Africa/Lagos] PHP Notice:  Undefined index: ppor in /home/wwwelshcon/public_html/requisition/addcashpor.php on line 10
+[17-Jan-2019 10:00:43 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 10:01:27 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 10:01:34 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 10:02:05 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 10:04:42 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 10:04:42 Africa/Lagos] PHP Notice:  Undefined index: rep in /home/wwwelshcon/public_html/requisition/cashsendTOOfficierDD.php on line 21
+[17-Jan-2019 10:04:42 Africa/Lagos] PHP Notice:  Undefined index: actor in /home/wwwelshcon/public_html/requisition/cashsendTOOfficierDD.php on line 22
+[17-Jan-2019 10:04:42 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[17-Jan-2019 10:04:42 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[17-Jan-2019 10:09:50 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 10:09:50 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[17-Jan-2019 10:09:50 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[17-Jan-2019 10:21:46 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 10:21:46 Africa/Lagos] PHP Notice:  Undefined index: ppor in /home/wwwelshcon/public_html/requisition/addcashpor.php on line 10
+[17-Jan-2019 10:22:20 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 10:22:20 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[17-Jan-2019 10:22:20 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[17-Jan-2019 10:37:07 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 10:37:07 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[17-Jan-2019 10:37:07 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[17-Jan-2019 11:11:54 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 11:11:54 Africa/Lagos] PHP Notice:  Undefined index: ppor in /home/wwwelshcon/public_html/requisition/addcashpor.php on line 10
+[17-Jan-2019 11:13:18 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 11:13:18 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[17-Jan-2019 11:13:18 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[17-Jan-2019 12:04:33 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 12:04:33 Africa/Lagos] PHP Notice:  Undefined index: rep in /home/wwwelshcon/public_html/requisition/cashsendTOOfficierDD.php on line 21
+[17-Jan-2019 12:04:33 Africa/Lagos] PHP Notice:  Undefined index: actor in /home/wwwelshcon/public_html/requisition/cashsendTOOfficierDD.php on line 22
+[17-Jan-2019 12:04:33 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[17-Jan-2019 12:04:33 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[17-Jan-2019 12:04:34 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 12:04:34 Africa/Lagos] PHP Notice:  Undefined index: rep in /home/wwwelshcon/public_html/requisition/cashsendTOOfficierDD.php on line 21
+[17-Jan-2019 12:04:34 Africa/Lagos] PHP Notice:  Undefined index: actor in /home/wwwelshcon/public_html/requisition/cashsendTOOfficierDD.php on line 22
+[17-Jan-2019 12:04:34 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[17-Jan-2019 12:04:34 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[17-Jan-2019 12:35:06 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 12:35:06 Africa/Lagos] PHP Notice:  Undefined index: Firstname in /home/wwwelshcon/public_html/requisition/addcashpor.php on line 5
+[17-Jan-2019 12:35:06 Africa/Lagos] PHP Notice:  Undefined index: SurName in /home/wwwelshcon/public_html/requisition/addcashpor.php on line 5
+[17-Jan-2019 12:35:06 Africa/Lagos] PHP Notice:  Undefined index: uid in /home/wwwelshcon/public_html/requisition/addcashpor.php on line 6
+[17-Jan-2019 12:35:06 Africa/Lagos] PHP Notice:  Undefined index: DeptID in /home/wwwelshcon/public_html/requisition/addcashpor.php on line 7
+[17-Jan-2019 12:35:06 Africa/Lagos] PHP Notice:  Undefined index: ppor in /home/wwwelshcon/public_html/requisition/addcashpor.php on line 10
+[17-Jan-2019 12:40:25 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 12:40:25 Africa/Lagos] PHP Notice:  Undefined index: Firstname in /home/wwwelshcon/public_html/requisition/sendTOCnP.php on line 8
+[17-Jan-2019 12:40:25 Africa/Lagos] PHP Notice:  Undefined index: SurName in /home/wwwelshcon/public_html/requisition/sendTOCnP.php on line 8
+[17-Jan-2019 12:40:25 Africa/Lagos] PHP Notice:  Undefined index: uid in /home/wwwelshcon/public_html/requisition/sendTOCnP.php on line 9
+[17-Jan-2019 12:40:25 Africa/Lagos] PHP Notice:  Undefined index: uid in /home/wwwelshcon/public_html/requisition/sendTOCnP.php on line 10
+[17-Jan-2019 12:40:25 Africa/Lagos] PHP Notice:  Undefined index: DeptID in /home/wwwelshcon/public_html/requisition/sendTOCnP.php on line 11
+[17-Jan-2019 12:44:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 12:44:17 Africa/Lagos] PHP Notice:  Undefined index: rep in /home/wwwelshcon/public_html/requisition/cashsendTOOfficierDD.php on line 22
+[17-Jan-2019 12:44:17 Africa/Lagos] PHP Notice:  Undefined index: actor in /home/wwwelshcon/public_html/requisition/cashsendTOOfficierDD.php on line 23
+[17-Jan-2019 12:45:26 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 12:45:26 Africa/Lagos] PHP Notice:  Undefined index: rep in /home/wwwelshcon/public_html/requisition/cashsendTOOfficierDD.php on line 22
+[17-Jan-2019 12:45:26 Africa/Lagos] PHP Notice:  Undefined index: actor in /home/wwwelshcon/public_html/requisition/cashsendTOOfficierDD.php on line 23
+[17-Jan-2019 13:05:08 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 13:06:11 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 13:06:32 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 13:06:58 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 13:13:45 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 13:13:45 Africa/Lagos] PHP Notice:  Undefined index: ppor in /home/wwwelshcon/public_html/requisition/addcashpor.php on line 10
+[17-Jan-2019 13:14:27 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 13:15:26 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 13:15:35 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 13:15:54 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 13:16:57 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 13:53:19 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 13:57:39 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:04:06 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:04:06 Africa/Lagos] PHP Notice:  Undefined index: ppor in /home/wwwelshcon/public_html/requisition/addcashpor.php on line 10
+[17-Jan-2019 14:04:34 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:05:50 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:05:54 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:08:35 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:08:52 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:08:52 Africa/Lagos] PHP Notice:  Undefined index: ppor in /home/wwwelshcon/public_html/requisition/addcashpor.php on line 10
+[17-Jan-2019 14:12:02 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:12:26 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:12:49 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:16:50 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:16:53 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:23:18 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:23:18 Africa/Lagos] PHP Notice:  Undefined index: amt in /home/wwwelshcon/public_html/requisition/addpor.php on line 11
+[17-Jan-2019 14:25:00 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:25:15 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:25:15 Africa/Lagos] PHP Notice:  Undefined index: amt in /home/wwwelshcon/public_html/requisition/addpor.php on line 11
+[17-Jan-2019 14:34:52 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:36:23 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:38:27 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 14:39:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 15:06:23 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 15:06:23 Africa/Lagos] PHP Notice:  Undefined index: ppor in /home/wwwelshcon/public_html/requisition/addcashpor.php on line 10
+[17-Jan-2019 15:07:55 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 15:09:31 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 15:09:39 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 15:12:16 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 15:14:57 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 15:16:15 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 15:16:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 15:16:31 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 15:17:09 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 15:27:27 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 17:25:57 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 17:39:00 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 17:39:00 Africa/Lagos] PHP Notice:  Undefined index: role in /home/wwwelshcon/public_html/requisition/cashsendTOGM.php on line 15
+[17-Jan-2019 17:40:06 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 17:40:06 Africa/Lagos] PHP Notice:  Undefined index: role in /home/wwwelshcon/public_html/requisition/cashsendTOGM.php on line 15
+[17-Jan-2019 17:41:41 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 17:42:04 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 17:45:47 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 17:45:47 Africa/Lagos] PHP Notice:  Undefined index: role in /home/wwwelshcon/public_html/requisition/cashsendTOGM.php on line 15
+[17-Jan-2019 17:45:53 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 17:45:53 Africa/Lagos] PHP Notice:  Undefined index: role in /home/wwwelshcon/public_html/requisition/cashsendTOGM.php on line 15
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 42
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 45
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 48
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 51
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 54
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 57
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 61
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 64
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 42
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 45
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 48
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 51
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 54
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 57
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 61
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 64
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: REQDeptID in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 85
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 86
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 97
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: ActionOfMD in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 108
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: ActionOfMD in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 109
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: ActionOfMD in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 110
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: REQEmail in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 115
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: REQFullname in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 115
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: Mgs in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 115
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined variable: SFavicon in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 136
+[17-Jan-2019 17:46:57 Africa/Lagos] PHP Notice:  Undefined index: Favicon in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 143
+[17-Jan-2019 17:46:58 Africa/Lagos] PHP Notice:  Undefined variable: REQFullname in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 181
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 42
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 45
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 48
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 51
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 54
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 57
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 61
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 64
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Notice:  Undefined variable: REQDeptID in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 85
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 86
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 97
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Notice:  Undefined variable: ActionOfMD in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 108
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Notice:  Undefined variable: ActionOfMD in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 109
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Notice:  Undefined variable: ActionOfMD in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 110
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Notice:  Undefined variable: REQEmail in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 115
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Notice:  Undefined variable: REQFullname in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 115
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Notice:  Undefined variable: Mgs in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 115
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Notice:  Undefined variable: SFavicon in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 136
+[17-Jan-2019 17:49:04 Africa/Lagos] PHP Notice:  Undefined index: Favicon in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 143
+[17-Jan-2019 17:49:06 Africa/Lagos] PHP Notice:  Undefined variable: REQFullname in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 181
+[17-Jan-2019 17:49:20 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jan-2019 17:49:20 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 42
+[17-Jan-2019 17:49:20 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 45
+[17-Jan-2019 17:49:20 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 48
+[17-Jan-2019 17:49:20 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 51
+[17-Jan-2019 17:49:20 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 54
+[17-Jan-2019 17:49:20 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 57
+[17-Jan-2019 17:49:20 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 61
+[17-Jan-2019 17:49:20 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 64
+[17-Jan-2019 17:49:20 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 86
+[17-Jan-2019 17:49:20 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 97
+[17-Jan-2019 17:49:20 Africa/Lagos] PHP Notice:  Undefined variable: ActionOfMD in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 108
+[17-Jan-2019 17:49:20 Africa/Lagos] PHP Notice:  Undefined variable: ActionOfMD in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 109
+[17-Jan-2019 17:49:20 Africa/Lagos] PHP Notice:  Undefined variable: ActionOfMD in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 110
+[17-Jan-2019 17:49:20 Africa/Lagos] PHP Notice:  Undefined variable: Mgs in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 115
+[17-Jan-2019 17:49:20 Africa/Lagos] PHP Notice:  Undefined variable: SFavicon in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 136
+[17-Jan-2019 17:49:20 Africa/Lagos] PHP Notice:  Undefined index: Favicon in /home/wwwelshcon/public_html/requisition/acctapproved.php on line 143
+[18-Jan-2019 09:41:04 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 09:41:04 Africa/Lagos] PHP Notice:  Undefined index: rep in /home/wwwelshcon/public_html/requisition/cashsendTOOfficierDD.php on line 22
+[18-Jan-2019 09:41:04 Africa/Lagos] PHP Notice:  Undefined index: actor in /home/wwwelshcon/public_html/requisition/cashsendTOOfficierDD.php on line 23
+[18-Jan-2019 09:41:49 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 09:41:49 Africa/Lagos] PHP Notice:  Undefined index: rep in /home/wwwelshcon/public_html/requisition/cashsendTOOfficierDD.php on line 22
+[18-Jan-2019 09:41:49 Africa/Lagos] PHP Notice:  Undefined index: actor in /home/wwwelshcon/public_html/requisition/cashsendTOOfficierDD.php on line 23
+[18-Jan-2019 09:46:35 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 09:46:35 Africa/Lagos] PHP Notice:  Undefined index: rep in /home/wwwelshcon/public_html/requisition/cashsendTOOfficierDD.php on line 22
+[18-Jan-2019 09:46:35 Africa/Lagos] PHP Notice:  Undefined index: actor in /home/wwwelshcon/public_html/requisition/cashsendTOOfficierDD.php on line 23
+[18-Jan-2019 09:48:58 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 09:48:58 Africa/Lagos] PHP Notice:  Undefined index: rep in /home/wwwelshcon/public_html/requisition/sendTOCnP.php on line 24
+[18-Jan-2019 09:50:07 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 09:50:07 Africa/Lagos] PHP Notice:  Undefined index: rep in /home/wwwelshcon/public_html/requisition/sendTOCnP.php on line 24
+[18-Jan-2019 10:21:07 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 10:23:12 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 10:37:05 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 11:03:23 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 11:03:46 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 11:06:00 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 42
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 45
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 48
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 51
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 54
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 57
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 61
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 64
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 42
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 45
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 48
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 51
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 54
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 57
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 61
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 64
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 42
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 45
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 48
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 51
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 54
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 57
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 61
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 64
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 92
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 103
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined variable: SFavicon in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 146
+[18-Jan-2019 11:06:33 Africa/Lagos] PHP Notice:  Undefined index: Favicon in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 153
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 42
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 45
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 48
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 51
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 54
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 57
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 61
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 64
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 42
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 45
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 48
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 51
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 54
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 57
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 61
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 64
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 42
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 45
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 48
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 51
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 54
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 57
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 61
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 64
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 92
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 103
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined variable: SFavicon in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 146
+[18-Jan-2019 11:06:38 Africa/Lagos] PHP Notice:  Undefined index: Favicon in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 153
+[18-Jan-2019 11:07:09 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 11:07:09 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 42
+[18-Jan-2019 11:07:09 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 45
+[18-Jan-2019 11:07:09 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 48
+[18-Jan-2019 11:07:09 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 51
+[18-Jan-2019 11:07:09 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 54
+[18-Jan-2019 11:07:09 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 57
+[18-Jan-2019 11:07:09 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 61
+[18-Jan-2019 11:07:09 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 64
+[18-Jan-2019 11:07:09 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 92
+[18-Jan-2019 11:07:09 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 103
+[18-Jan-2019 11:07:09 Africa/Lagos] PHP Notice:  Undefined variable: SFavicon in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 146
+[18-Jan-2019 11:07:09 Africa/Lagos] PHP Notice:  Undefined index: Favicon in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 153
+[18-Jan-2019 11:07:10 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 11:07:10 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 42
+[18-Jan-2019 11:07:10 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 45
+[18-Jan-2019 11:07:10 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 48
+[18-Jan-2019 11:07:10 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 51
+[18-Jan-2019 11:07:10 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 54
+[18-Jan-2019 11:07:10 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 57
+[18-Jan-2019 11:07:10 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 61
+[18-Jan-2019 11:07:10 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 64
+[18-Jan-2019 11:07:10 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 92
+[18-Jan-2019 11:07:10 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 103
+[18-Jan-2019 11:07:10 Africa/Lagos] PHP Notice:  Undefined variable: SFavicon in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 146
+[18-Jan-2019 11:07:10 Africa/Lagos] PHP Notice:  Undefined index: Favicon in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 153
+[18-Jan-2019 11:17:28 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 42
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 45
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 48
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 51
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 54
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 57
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 61
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 64
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 42
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 45
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 48
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 51
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 54
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 57
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 61
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 64
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 92
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 103
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined variable: SFavicon in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 146
+[18-Jan-2019 11:21:17 Africa/Lagos] PHP Notice:  Undefined index: Favicon in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 153
+[18-Jan-2019 11:21:59 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 11:21:59 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 42
+[18-Jan-2019 11:21:59 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 45
+[18-Jan-2019 11:21:59 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 48
+[18-Jan-2019 11:21:59 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 51
+[18-Jan-2019 11:21:59 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 54
+[18-Jan-2019 11:21:59 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 57
+[18-Jan-2019 11:21:59 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 61
+[18-Jan-2019 11:21:59 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 64
+[18-Jan-2019 11:21:59 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 92
+[18-Jan-2019 11:21:59 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 103
+[18-Jan-2019 11:21:59 Africa/Lagos] PHP Notice:  Undefined variable: SFavicon in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 146
+[18-Jan-2019 11:21:59 Africa/Lagos] PHP Notice:  Undefined index: Favicon in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 153
+[18-Jan-2019 11:22:36 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 11:22:36 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 42
+[18-Jan-2019 11:22:36 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 45
+[18-Jan-2019 11:22:36 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 48
+[18-Jan-2019 11:22:36 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 51
+[18-Jan-2019 11:22:36 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 54
+[18-Jan-2019 11:22:36 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 57
+[18-Jan-2019 11:22:36 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 61
+[18-Jan-2019 11:22:36 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 64
+[18-Jan-2019 11:22:36 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 92
+[18-Jan-2019 11:22:36 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 103
+[18-Jan-2019 11:22:37 Africa/Lagos] PHP Notice:  Undefined variable: SFavicon in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 146
+[18-Jan-2019 11:22:37 Africa/Lagos] PHP Notice:  Undefined index: Favicon in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 153
+[18-Jan-2019 11:22:39 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 11:22:39 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 42
+[18-Jan-2019 11:22:39 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 45
+[18-Jan-2019 11:22:39 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 48
+[18-Jan-2019 11:22:39 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 51
+[18-Jan-2019 11:22:39 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 54
+[18-Jan-2019 11:22:39 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 57
+[18-Jan-2019 11:22:39 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 61
+[18-Jan-2019 11:22:39 Africa/Lagos] PHP Notice:  Undefined variable: row in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 64
+[18-Jan-2019 11:22:39 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 92
+[18-Jan-2019 11:22:39 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 103
+[18-Jan-2019 11:22:39 Africa/Lagos] PHP Notice:  Undefined variable: SFavicon in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 146
+[18-Jan-2019 11:22:39 Africa/Lagos] PHP Notice:  Undefined index: Favicon in /home/wwwelshcon/public_html/requisition/cashmdaction.php on line 153
+[18-Jan-2019 12:09:43 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 12:09:43 Africa/Lagos] PHP Notice:  Undefined index: ppor in /home/wwwelshcon/public_html/requisition/addcashpor.php on line 10
+[18-Jan-2019 12:09:54 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 12:10:40 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 12:10:43 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 12:12:26 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 12:12:26 Africa/Lagos] PHP Notice:  Undefined index: ppor in /home/wwwelshcon/public_html/requisition/addcashpor.php on line 10
+[18-Jan-2019 12:12:42 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 12:13:18 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 12:13:21 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 12:13:47 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 12:15:07 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Jan-2019 12:16:48 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9

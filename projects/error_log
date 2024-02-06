@@ -1,0 +1,14 @@
+[08-Aug-2018 16:25:01 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[08-Aug-2018 16:25:01 Africa/Lagos] PHP Notice:  Undefined index: ProjFile in /home/wwwelshcon/public_html/projects/regProj.php on line 33
+[08-Aug-2018 16:25:01 Africa/Lagos] PHP Notice:  Undefined index: ProjFile in /home/wwwelshcon/public_html/projects/regProj.php on line 42
+[08-Aug-2018 16:25:01 Africa/Lagos] PHP Notice:  Undefined index: ProjFile in /home/wwwelshcon/public_html/projects/regProj.php on line 43
+[08-Aug-2018 16:26:45 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[08-Aug-2018 16:26:45 Africa/Lagos] PHP Notice:  Undefined index: ProjFile in /home/wwwelshcon/public_html/projects/regProj.php on line 33
+[08-Aug-2018 16:26:45 Africa/Lagos] PHP Notice:  Undefined index: ProjFile in /home/wwwelshcon/public_html/projects/regProj.php on line 42
+[08-Aug-2018 16:26:45 Africa/Lagos] PHP Notice:  Undefined index: ProjFile in /home/wwwelshcon/public_html/projects/regProj.php on line 43
+[08-Aug-2018 16:26:45 Africa/Lagos] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/wwwelshcon/public_html/projects/regProj.php on line 88
+[08-Aug-2018 16:27:22 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[08-Aug-2018 16:27:22 Africa/Lagos] PHP Notice:  Undefined index: ProjFile in /home/wwwelshcon/public_html/projects/updatePROJ.php on line 35
+[08-Aug-2018 16:27:22 Africa/Lagos] PHP Notice:  Undefined index: ProjFile in /home/wwwelshcon/public_html/projects/updatePROJ.php on line 44
+[08-Aug-2018 16:27:22 Africa/Lagos] PHP Notice:  Undefined index: ProjFile in /home/wwwelshcon/public_html/projects/updatePROJ.php on line 45
+[08-Aug-2018 16:27:22 Africa/Lagos] PHP Notice:  Undefined variable: ProjNo in /home/wwwelshcon/public_html/projects/updatePROJ.php on line 99

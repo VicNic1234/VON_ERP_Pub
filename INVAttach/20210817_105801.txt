@@ -1,0 +1,27 @@
+13.08.2021
+*Reporting Issues
+**Business Unit Performance Report (KPI to generate Performance Report) from Income Statement, Report by Job, BUs, Equi.
+(BU and Jobs are mandatory for all entries)
+**Reci. & Paybl.
+**Invoice Registering (Multi-Currencies)
+**VAT on posting entry (Update to 7.5)
+**WHT/NCD/Catbotage (Reci.)
+**Registering Invoice (PO./Contract Code)
+add softcopy and make it accessable
+Once Currency is not Naira, Prompt for Xchange Rate
+
+**Payble Not Able to identify when more than one transac is posted in a Cheuqe
+**When posting two invoice in Reci. only one invoice shows
+**In the Bank Account Head (Opening Bal shows customer's name
+**At the point of payment of PDF/Cash request, let Warehouse see.
+**Approxi. to 2dplaces
+**Under Paybl. when debting Legder (it should be searchable instead of scrolling
+**Subsidary Legder does not agree with the General Legder.
+** make all list searchable
+** PAYABLE (BANKS AND DEBITs not showing on Vendors' ledger) tie all Items to Vendor (either from Invoice or Add Item)
+**RECEIVABLE : make contract No. and PO No. free text
+**Customer/Vendor Ledger: AllBal (show one ledger bal)
+**Ack Customer Inovice should take Descrip. frm comment box
+**Customer/Vendor Ledger: allow multi currency (allow filters on currencies)
+**Bank Recip. : note Exchage Gain/Loss
+**NO Editing except on Businees Years

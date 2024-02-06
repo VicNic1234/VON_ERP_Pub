@@ -1,0 +1,535 @@
+[24-Jul-2018 12:48:19 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Jul-2018 12:48:19 Africa/Lagos] PHP Notice:  Undefined index: DDapprove in /home/wwwelshcon/public_html/duediligence/updateCONT.php on line 10
+[24-Jul-2018 12:49:56 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[28-Jan-2019 14:51:09 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[28-Jan-2019 15:07:06 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-Jan-2019 13:48:02 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-Jan-2019 13:49:13 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[27-Feb-2019 16:16:45 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[28-Feb-2019 10:09:16 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[28-Feb-2019 10:26:09 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[28-Feb-2019 10:26:09 Africa/Lagos] PHP Notice:  Undefined index: DDapprove in /home/wwwelshcon/public_html/duediligence/updateCONT.php on line 10
+[28-Feb-2019 10:26:31 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[06-Mar-2019 14:34:22 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[06-Mar-2019 14:36:06 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[06-Mar-2019 14:36:06 Africa/Lagos] PHP Notice:  Undefined index: DDapprove in /home/wwwelshcon/public_html/duediligence/updateCONT.php on line 10
+[06-Mar-2019 14:36:21 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[06-Mar-2019 14:56:16 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[06-Mar-2019 16:56:08 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[06-Mar-2019 17:03:07 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Apr-2019 12:38:15 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Apr-2019 12:38:15 Africa/Lagos] PHP Notice:  Undefined index: DDapprove in /home/wwwelshcon/public_html/duediligence/updateDDA.php on line 10
+[17-Apr-2019 16:54:50 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 11:59:55 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 11:59:55 Africa/Lagos] PHP Notice:  Undefined index: DDapprove in /home/wwwelshcon/public_html/duediligence/updateDDA.php on line 10
+[18-Apr-2019 12:19:44 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 12:20:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 12:20:44 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 12:21:32 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 12:21:49 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 12:23:57 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 12:24:42 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 12:25:07 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 13:49:37 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 14:17:53 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 14:41:53 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 14:42:05 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 14:43:27 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 14:43:48 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 14:50:34 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 15:15:48 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 15:19:06 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 15:21:55 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 15:40:10 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 15:53:50 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 15:57:22 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 16:21:27 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 16:23:27 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 16:24:33 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 16:41:58 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 16:46:08 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Apr-2019 17:01:06 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[19-Apr-2019 09:43:30 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[19-Apr-2019 09:43:30 Africa/Lagos] PHP Notice:  Undefined index: DDapprove in /home/wwwelshcon/public_html/duediligence/updateDDA.php on line 10
+[19-Apr-2019 09:43:42 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[19-Apr-2019 09:43:42 Africa/Lagos] PHP Notice:  Undefined index: DDapprove in /home/wwwelshcon/public_html/duediligence/updateDDA.php on line 10
+[23-Apr-2019 11:25:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Apr-2019 14:15:38 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Apr-2019 14:26:47 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Apr-2019 14:26:47 Africa/Lagos] PHP Notice:  Undefined index: DDapprove in /home/wwwelshcon/public_html/duediligence/updateDDA.php on line 10
+[24-Apr-2019 15:14:47 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Apr-2019 16:25:49 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Apr-2019 16:37:35 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Apr-2019 16:51:03 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Apr-2019 16:52:34 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[25-Apr-2019 15:18:03 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[26-Apr-2019 10:04:26 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[26-Apr-2019 10:58:35 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-May-2019 09:53:49 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-May-2019 12:25:06 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-May-2019 12:29:12 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-May-2019 15:50:59 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-May-2019 15:16:10 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-May-2019 15:38:47 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-May-2019 16:12:28 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-May-2019 18:56:45 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-May-2019 18:59:06 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[06-May-2019 15:50:09 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[06-May-2019 15:51:54 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[06-May-2019 16:18:07 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[06-May-2019 16:20:02 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[09-May-2019 12:01:48 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[09-May-2019 17:01:54 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[10-May-2019 14:44:54 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[10-May-2019 14:45:41 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[10-May-2019 14:45:55 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[10-May-2019 15:03:18 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[10-May-2019 15:21:46 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[10-May-2019 15:22:50 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[10-May-2019 16:21:58 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[10-May-2019 17:11:21 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[10-May-2019 17:18:31 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[10-May-2019 17:32:40 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[14-May-2019 16:44:51 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[14-May-2019 16:49:04 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-May-2019 13:15:58 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-May-2019 13:29:07 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-May-2019 13:29:43 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-May-2019 13:45:10 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-May-2019 15:47:52 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-May-2019 15:52:53 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-May-2019 16:09:39 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-May-2019 16:14:51 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-May-2019 16:18:41 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-May-2019 16:42:26 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-May-2019 17:18:46 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[20-May-2019 15:59:14 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[20-May-2019 15:59:22 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[21-May-2019 16:31:46 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[21-May-2019 17:18:08 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 10:30:48 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 10:47:50 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 10:57:03 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 13:06:25 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 13:12:12 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 14:51:05 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 14:52:09 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 14:58:09 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 15:07:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 15:08:09 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 15:19:31 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 15:19:38 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 15:20:58 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 15:38:01 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 15:47:40 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 15:47:51 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 15:59:14 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 16:06:32 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 16:55:46 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-May-2019 17:07:09 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[23-May-2019 14:53:34 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[23-May-2019 15:07:36 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[23-May-2019 15:42:16 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[23-May-2019 15:42:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[23-May-2019 15:56:00 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[29-May-2019 15:28:01 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-May-2019 09:05:07 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-May-2019 10:34:41 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-May-2019 10:40:31 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-May-2019 10:43:07 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-May-2019 10:43:48 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-May-2019 10:44:45 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-May-2019 10:54:23 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-May-2019 11:10:32 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-May-2019 11:19:18 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-May-2019 11:24:06 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-May-2019 11:29:29 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-May-2019 11:34:09 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-May-2019 11:36:26 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 08:47:38 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 09:09:58 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 09:11:41 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 10:05:29 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 10:09:04 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 10:11:06 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 10:16:45 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 10:27:59 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 10:40:18 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 10:45:16 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 11:00:58 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 11:06:44 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 11:14:15 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 11:19:27 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 11:24:51 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 11:26:28 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 11:28:14 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 11:34:34 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 13:15:18 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Jun-2019 13:16:30 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Jun-2019 11:57:44 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Jun-2019 17:30:14 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Jun-2019 17:33:04 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[13-Jun-2019 16:35:35 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[13-Jun-2019 16:51:30 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[13-Jun-2019 16:54:33 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[13-Jun-2019 17:07:01 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[13-Jun-2019 17:09:52 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[27-Jun-2019 14:02:03 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[27-Jun-2019 14:02:14 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[01-Jul-2019 14:00:49 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[01-Jul-2019 14:02:28 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[01-Jul-2019 14:08:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[09-Jul-2019 13:38:30 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Jul-2019 13:04:31 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Jul-2019 13:04:43 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Jul-2019 13:12:22 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Jul-2019 13:18:00 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Jul-2019 13:36:00 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Jul-2019 14:05:01 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Jul-2019 14:18:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Jul-2019 15:25:27 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Jul-2019 15:26:40 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[15-Aug-2019 16:15:52 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[16-Aug-2019 14:59:31 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[26-Aug-2019 11:51:11 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[26-Aug-2019 12:11:56 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[26-Aug-2019 13:42:57 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[26-Aug-2019 13:52:02 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[26-Aug-2019 13:54:40 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[28-Aug-2019 11:59:29 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[28-Aug-2019 12:00:40 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[28-Aug-2019 15:15:34 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[04-Sep-2019 09:18:22 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[04-Sep-2019 09:19:05 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[04-Sep-2019 09:27:11 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[04-Sep-2019 09:29:46 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Sep-2019 14:12:32 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Sep-2019 14:37:16 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Sep-2019 14:42:54 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Sep-2019 14:52:02 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Oct-2019 10:24:51 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Oct-2019 10:32:18 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Oct-2019 10:42:04 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Oct-2019 10:52:55 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Oct-2019 10:59:37 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Oct-2019 11:11:52 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Oct-2019 11:19:56 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Oct-2019 11:28:51 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[15-Oct-2019 18:17:01 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[15-Oct-2019 18:26:35 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[15-Oct-2019 18:33:28 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[15-Oct-2019 18:37:05 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[15-Oct-2019 18:46:01 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[16-Oct-2019 10:07:03 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[16-Oct-2019 10:20:00 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[16-Oct-2019 10:35:37 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[16-Oct-2019 17:12:42 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[16-Oct-2019 17:21:48 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[16-Oct-2019 17:43:20 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-Oct-2019 09:40:43 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[29-Oct-2019 16:17:14 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[29-Oct-2019 16:39:38 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[29-Oct-2019 16:43:25 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[29-Oct-2019 16:47:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[29-Oct-2019 17:23:31 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[29-Oct-2019 17:23:49 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[29-Oct-2019 17:39:40 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[29-Oct-2019 17:43:13 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[29-Oct-2019 17:47:03 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[29-Oct-2019 17:51:21 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[29-Oct-2019 17:53:49 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-Oct-2019 09:23:12 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-Oct-2019 12:18:43 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-Oct-2019 12:19:20 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-Oct-2019 12:24:41 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[01-Nov-2019 10:42:03 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[13-Nov-2019 12:00:00 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[27-Nov-2019 17:12:10 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[27-Nov-2019 17:26:28 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-Dec-2019 12:16:52 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-Dec-2019 12:20:30 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-Dec-2019 13:46:43 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[04-Dec-2019 14:20:51 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[04-Dec-2019 14:21:04 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[04-Dec-2019 14:24:35 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[04-Dec-2019 14:28:45 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[04-Dec-2019 14:37:14 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[04-Dec-2019 14:38:48 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[04-Dec-2019 15:10:46 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[09-Jan-2020 11:32:06 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[09-Jan-2020 12:32:18 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[14-Jan-2020 15:43:51 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[23-Jan-2020 16:04:07 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[23-Jan-2020 16:04:23 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[23-Jan-2020 16:11:28 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[23-Jan-2020 16:16:26 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Feb-2020 16:52:34 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Feb-2020 16:52:58 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Feb-2020 16:59:57 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Feb-2020 17:15:46 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Feb-2020 17:51:09 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Feb-2020 17:58:56 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Feb-2020 17:01:48 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[19-Feb-2020 15:53:03 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[20-Feb-2020 10:48:04 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[20-Feb-2020 10:59:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[20-Feb-2020 12:08:45 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[21-Feb-2020 17:10:00 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Mar-2020 11:31:49 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Mar-2020 11:32:23 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Mar-2020 11:42:42 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Mar-2020 12:14:06 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Mar-2020 12:15:01 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Mar-2020 12:17:24 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[06-Mar-2020 13:59:47 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Mar-2020 16:29:21 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Mar-2020 16:35:31 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[09-Apr-2020 11:27:36 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[09-Apr-2020 11:40:41 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[09-Apr-2020 11:45:16 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[05-Aug-2020 13:26:20 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[05-Aug-2020 13:27:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[07-Aug-2020 13:46:25 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[07-Aug-2020 13:49:11 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Sep-2020 14:01:08 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Sep-2020 14:05:32 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Sep-2020 13:25:32 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Sep-2020 13:26:45 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Sep-2020 13:27:46 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-Sep-2020 12:52:32 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[06-Oct-2020 10:05:25 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Nov-2020 15:11:53 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Nov-2020 12:54:47 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[23-Nov-2020 15:09:47 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[23-Nov-2020 15:09:47 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[23-Nov-2020 15:09:47 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[23-Nov-2020 16:44:14 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[23-Nov-2020 16:44:14 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[23-Nov-2020 16:44:14 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[24-Nov-2020 10:40:06 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Nov-2020 10:40:06 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[24-Nov-2020 10:40:06 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[24-Nov-2020 10:40:11 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Nov-2020 10:40:11 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[24-Nov-2020 10:40:11 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[24-Nov-2020 10:46:18 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Nov-2020 10:46:18 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[24-Nov-2020 10:46:18 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[24-Nov-2020 11:22:25 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Nov-2020 11:22:25 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[24-Nov-2020 11:22:25 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[24-Nov-2020 11:44:07 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Nov-2020 11:44:07 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[24-Nov-2020 11:44:07 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[24-Nov-2020 16:07:22 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Nov-2020 16:07:22 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[24-Nov-2020 16:07:22 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[25-Nov-2020 13:37:53 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[25-Nov-2020 13:37:53 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[25-Nov-2020 13:37:53 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[25-Nov-2020 13:40:11 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[25-Nov-2020 13:40:11 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[25-Nov-2020 13:40:11 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[26-Nov-2020 09:30:31 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[26-Nov-2020 09:30:31 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[26-Nov-2020 09:30:31 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[26-Nov-2020 15:28:36 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[26-Nov-2020 15:28:36 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[26-Nov-2020 15:28:36 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[26-Nov-2020 15:38:28 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[26-Nov-2020 15:38:28 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[26-Nov-2020 15:38:28 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[26-Nov-2020 15:48:37 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[26-Nov-2020 15:48:38 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[26-Nov-2020 15:48:38 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[30-Nov-2020 12:26:18 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-Nov-2020 12:26:18 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[30-Nov-2020 12:26:18 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[23-Dec-2020 16:09:23 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[23-Dec-2020 16:09:23 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[23-Dec-2020 16:09:23 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[25-Jan-2021 10:45:48 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[25-Jan-2021 10:45:48 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[25-Jan-2021 10:45:48 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[25-Jan-2021 10:52:58 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[25-Jan-2021 10:52:58 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[25-Jan-2021 10:52:58 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[02-Feb-2021 11:33:33 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-Feb-2021 11:33:33 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[02-Feb-2021 11:33:33 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[02-Feb-2021 11:49:09 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-Feb-2021 11:49:09 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[02-Feb-2021 11:49:09 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[02-Feb-2021 12:25:25 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-Feb-2021 12:25:25 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[02-Feb-2021 12:25:25 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[02-Feb-2021 12:51:14 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-Feb-2021 12:51:14 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[02-Feb-2021 12:51:14 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[02-Feb-2021 12:57:57 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-Feb-2021 12:57:57 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[02-Feb-2021 12:57:57 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[02-Feb-2021 13:32:22 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-Feb-2021 13:32:22 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[02-Feb-2021 13:32:22 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[02-Feb-2021 13:43:10 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-Feb-2021 13:43:10 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[02-Feb-2021 13:43:10 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[02-Feb-2021 15:42:31 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-Feb-2021 15:42:31 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[02-Feb-2021 15:42:31 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[02-Feb-2021 15:42:36 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-Feb-2021 15:42:36 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[02-Feb-2021 15:42:36 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[02-Feb-2021 15:42:41 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-Feb-2021 15:42:41 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[02-Feb-2021 15:42:41 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[05-Feb-2021 13:34:44 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[05-Feb-2021 13:34:44 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[05-Feb-2021 13:34:44 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[10-Feb-2021 09:58:18 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[10-Feb-2021 09:58:18 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[10-Feb-2021 09:58:18 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[11-Feb-2021 11:50:37 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Feb-2021 11:50:37 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[11-Feb-2021 11:50:37 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[11-Feb-2021 12:54:28 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Feb-2021 12:54:28 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[11-Feb-2021 12:54:28 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[11-Feb-2021 13:02:21 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Feb-2021 13:02:21 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[11-Feb-2021 13:02:21 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[22-Feb-2021 13:15:40 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-Feb-2021 13:15:40 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[22-Feb-2021 13:15:40 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[22-Feb-2021 13:17:35 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-Feb-2021 13:17:35 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[22-Feb-2021 13:17:35 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[22-Feb-2021 13:18:12 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-Feb-2021 13:18:12 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[22-Feb-2021 13:18:12 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[22-Feb-2021 13:18:56 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-Feb-2021 13:18:56 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[22-Feb-2021 13:18:56 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[22-Feb-2021 13:19:49 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-Feb-2021 13:19:49 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[22-Feb-2021 13:19:49 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[22-Feb-2021 13:20:26 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-Feb-2021 13:20:26 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[22-Feb-2021 13:20:26 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[01-Mar-2021 10:55:18 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[01-Mar-2021 10:55:18 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[01-Mar-2021 10:55:18 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[01-Mar-2021 10:57:22 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[01-Mar-2021 10:57:22 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[01-Mar-2021 10:57:22 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[01-Mar-2021 11:00:39 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[01-Mar-2021 11:00:39 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[01-Mar-2021 11:00:39 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[01-Mar-2021 11:04:26 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[01-Mar-2021 11:04:26 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[01-Mar-2021 11:04:26 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[01-Mar-2021 11:42:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[01-Mar-2021 11:42:17 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[01-Mar-2021 11:42:17 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[01-Mar-2021 11:43:18 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[01-Mar-2021 11:43:18 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[01-Mar-2021 11:43:18 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[01-Mar-2021 11:45:43 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[01-Mar-2021 11:45:43 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[01-Mar-2021 11:45:43 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[01-Mar-2021 11:48:20 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[01-Mar-2021 11:48:20 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[01-Mar-2021 11:48:20 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[01-Mar-2021 11:49:53 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[01-Mar-2021 11:49:53 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[01-Mar-2021 11:49:53 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[01-Mar-2021 11:51:12 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[01-Mar-2021 11:51:12 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[01-Mar-2021 11:51:12 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[01-Mar-2021 11:53:23 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[01-Mar-2021 11:53:23 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[01-Mar-2021 11:53:23 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[30-Apr-2021 10:59:12 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[30-Apr-2021 10:59:12 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[30-Apr-2021 10:59:12 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[30-Apr-2021 11:01:52 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[27-Jan-2022 11:43:55 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[27-Jan-2022 11:43:55 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[27-Jan-2022 11:43:55 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[26-Aug-2022 12:46:50 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[26-Aug-2022 12:46:50 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[26-Aug-2022 12:46:50 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[07-Dec-2022 12:13:37 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[07-Dec-2022 12:13:37 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[07-Dec-2022 12:13:37 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[07-Dec-2022 12:16:48 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[07-Dec-2022 12:16:48 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[07-Dec-2022 12:16:48 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[07-Dec-2022 12:26:12 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[07-Dec-2022 12:26:12 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[07-Dec-2022 12:26:12 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[07-Dec-2022 12:32:26 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[07-Dec-2022 12:32:26 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[07-Dec-2022 12:32:26 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[09-Feb-2023 12:19:43 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[01-Mar-2023 12:40:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[01-Mar-2023 12:40:17 Africa/Lagos] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[01-Mar-2023 12:40:17 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[01-Mar-2023 12:40:17 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[24-Mar-2023 12:50:18 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[24-Mar-2023 12:50:18 Africa/Lagos] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[24-Mar-2023 12:50:18 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[24-Mar-2023 12:50:18 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[24-Mar-2023 12:52:23 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[24-Mar-2023 12:52:23 Africa/Lagos] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[24-Mar-2023 12:55:14 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[24-Mar-2023 12:55:14 Africa/Lagos] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[16-May-2023 15:17:04 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[16-May-2023 15:17:04 Africa/Lagos] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[16-May-2023 15:17:04 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[16-May-2023 15:17:04 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[16-May-2023 15:20:22 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[16-May-2023 15:20:22 Africa/Lagos] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[16-May-2023 15:20:22 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[16-May-2023 15:20:22 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[16-May-2023 15:22:39 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[16-May-2023 15:22:39 Africa/Lagos] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[16-May-2023 15:22:39 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[16-May-2023 15:22:39 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[13-Jun-2023 12:06:03 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[13-Jun-2023 12:06:03 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[13-Jun-2023 12:06:03 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[13-Jun-2023 12:06:39 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[13-Jun-2023 12:06:39 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[13-Jun-2023 12:06:39 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[13-Jun-2023 12:08:01 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[13-Jun-2023 12:08:01 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[13-Jun-2023 12:08:01 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[24-Jul-2023 14:40:33 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[24-Jul-2023 14:40:33 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[24-Jul-2023 14:40:33 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[25-Jul-2023 12:03:08 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[25-Jul-2023 12:03:08 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[25-Jul-2023 12:03:08 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[05-Oct-2023 17:13:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[05-Oct-2023 17:13:17 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[05-Oct-2023 17:13:17 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[30-Nov-2023 10:51:54 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[30-Nov-2023 10:54:55 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[14-Dec-2023 14:32:35 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[14-Dec-2023 14:35:06 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[14-Dec-2023 14:35:55 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[19-Dec-2023 09:17:02 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[19-Dec-2023 09:17:02 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[19-Dec-2023 09:17:02 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[19-Dec-2023 09:17:41 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[19-Dec-2023 09:17:41 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[19-Dec-2023 09:17:41 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[12-Jan-2024 10:51:29 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[23-Jan-2024 11:41:42 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[23-Jan-2024 11:41:42 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[23-Jan-2024 11:41:42 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48
+[23-Jan-2024 11:44:35 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[23-Jan-2024 11:44:35 Africa/Lagos] PHP Notice:  Undefined index: SNDUID in /home/wwwelshcon/public_html/notify.php on line 47
+[23-Jan-2024 11:44:35 Africa/Lagos] PHP Notice:  Undefined index: REQUID in /home/wwwelshcon/public_html/notify.php on line 48

@@ -1,0 +1,194 @@
+[13-Nov-2018 05:38:27 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/wwwelshcon/public_html/leave/gmcsleave.php on line 72
+[13-Nov-2018 05:38:31 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/wwwelshcon/public_html/leave/gmcsleave.php on line 72
+[17-Aug-2019 13:58:50 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Aug-2019 13:59:16 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Aug-2019 13:59:36 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Dec-2020 16:43:00 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Dec-2020 16:43:00 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[17-Dec-2020 21:00:10 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Dec-2020 21:00:10 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[27-Jan-2021 11:21:23 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[27-Jan-2021 11:21:23 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[24-Feb-2021 16:09:28 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Feb-2021 16:09:28 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[24-Feb-2021 16:11:25 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Feb-2021 16:11:25 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[24-Feb-2021 16:12:57 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Feb-2021 16:12:57 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[22-Mar-2021 12:50:01 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-Mar-2021 12:50:01 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[23-Mar-2021 15:40:39 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[23-Mar-2021 15:40:39 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[14-Apr-2021 15:57:50 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[14-Apr-2021 15:57:50 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[11-May-2021 11:20:15 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-May-2021 11:20:15 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[26-May-2021 09:04:23 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[26-May-2021 09:04:23 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[26-May-2021 09:04:42 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[26-May-2021 09:04:42 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[31-May-2021 15:02:25 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[31-May-2021 15:02:25 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[10-Jun-2021 10:33:34 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[10-Jun-2021 10:33:34 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[15-Jun-2021 16:03:13 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[15-Jun-2021 16:03:13 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[15-Jun-2021 16:04:25 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[15-Jun-2021 16:04:25 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[17-Jun-2021 12:53:03 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[17-Jun-2021 12:53:03 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[07-Jul-2021 13:43:02 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[07-Jul-2021 13:43:02 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[07-Jul-2021 13:43:51 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[07-Jul-2021 13:43:51 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[09-Jul-2021 12:07:10 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[09-Jul-2021 12:07:10 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[09-Jul-2021 15:28:05 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[09-Jul-2021 15:28:05 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[12-Jul-2021 12:24:55 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[12-Jul-2021 12:24:55 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[12-Jul-2021 14:23:04 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[12-Jul-2021 14:23:04 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[12-Jul-2021 14:24:21 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[12-Jul-2021 14:24:21 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[14-Jul-2021 15:11:12 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[14-Jul-2021 15:11:12 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[23-Jul-2021 10:07:24 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[23-Jul-2021 10:07:24 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[11-Aug-2021 16:08:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[11-Aug-2021 16:08:17 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[23-Aug-2021 14:47:16 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[23-Aug-2021 14:47:16 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[20-Sep-2021 15:35:56 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[20-Sep-2021 15:35:56 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[24-Sep-2021 09:09:46 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[24-Sep-2021 09:09:46 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[08-Oct-2021 10:16:14 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[08-Oct-2021 10:16:14 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[18-Oct-2021 16:59:57 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Oct-2021 16:59:57 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[22-Oct-2021 13:38:52 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-Oct-2021 13:38:52 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[26-Oct-2021 14:54:26 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[26-Oct-2021 14:54:26 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[29-Oct-2021 13:22:27 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[29-Oct-2021 13:22:27 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[01-Nov-2021 15:07:45 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[01-Nov-2021 15:07:45 Africa/Lagos] PHP Notice:  A session had already been started - ignoring session_start() in /home/wwwelshcon/public_html/utility/notify.php on line 2
+[02-Nov-2021 13:03:14 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-Nov-2021 13:03:14 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[02-Nov-2021 13:06:09 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[02-Nov-2021 13:06:09 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[03-Nov-2021 12:48:35 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Nov-2021 12:48:35 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[03-Nov-2021 12:53:01 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[03-Nov-2021 12:53:01 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[04-Nov-2021 08:58:29 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[04-Nov-2021 08:58:29 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[08-Nov-2021 15:38:12 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[08-Nov-2021 15:38:12 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[10-Nov-2021 14:40:56 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[10-Nov-2021 14:40:56 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[12-Nov-2021 11:24:30 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[12-Nov-2021 11:24:30 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[16-Nov-2021 08:43:37 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[16-Nov-2021 08:43:37 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[22-Nov-2021 11:17:21 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[22-Nov-2021 11:17:21 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[18-Feb-2022 14:44:38 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 9
+[18-Feb-2022 14:44:38 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[28-Feb-2022 09:50:57 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[28-Feb-2022 09:50:57 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[28-Feb-2022 10:02:08 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[28-Feb-2022 10:02:08 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[28-Feb-2022 10:03:55 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[28-Feb-2022 10:03:55 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[07-Mar-2022 13:52:26 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[07-Mar-2022 13:52:26 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[18-Mar-2022 15:46:19 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[18-Mar-2022 15:46:19 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[05-Apr-2022 11:03:15 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[05-Apr-2022 11:03:15 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[05-Apr-2022 15:50:38 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[05-Apr-2022 15:50:38 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[08-Apr-2022 09:13:41 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[08-Apr-2022 09:13:41 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[19-May-2022 13:50:48 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[19-May-2022 13:50:48 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[22-Jun-2022 10:43:31 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[22-Jun-2022 10:43:31 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[15-Jul-2022 10:27:37 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[15-Jul-2022 10:27:37 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[25-Jul-2022 09:19:41 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[25-Jul-2022 09:19:41 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[25-Jul-2022 11:31:24 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[25-Jul-2022 11:31:24 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[05-Aug-2022 17:26:40 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[05-Aug-2022 17:26:40 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[15-Aug-2022 10:07:53 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[15-Aug-2022 10:07:53 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[17-Aug-2022 09:40:56 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[17-Aug-2022 09:40:56 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[19-Aug-2022 10:25:54 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[19-Aug-2022 10:25:54 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[29-Aug-2022 11:25:30 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[29-Aug-2022 11:25:30 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[01-Sep-2022 10:28:54 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[01-Sep-2022 10:28:54 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[01-Sep-2022 10:30:18 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[01-Sep-2022 10:30:18 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[01-Sep-2022 10:33:42 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[01-Sep-2022 10:33:42 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[08-Sep-2022 09:31:17 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[08-Sep-2022 09:31:17 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[08-Sep-2022 09:31:32 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[08-Sep-2022 09:31:32 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[14-Sep-2022 15:36:18 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[14-Sep-2022 15:36:18 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[31-Oct-2022 09:50:28 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[31-Oct-2022 09:50:28 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[02-Nov-2022 15:58:30 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[02-Nov-2022 15:58:30 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[07-Nov-2022 14:07:33 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[07-Nov-2022 14:07:33 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[16-Nov-2022 16:38:37 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[16-Nov-2022 16:38:37 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[16-Nov-2022 16:38:52 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[16-Nov-2022 16:38:52 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[01-Dec-2022 10:08:24 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[01-Dec-2022 10:08:24 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[01-Dec-2022 15:13:19 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[01-Dec-2022 15:13:19 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[01-Dec-2022 15:31:34 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[01-Dec-2022 15:31:34 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[05-Dec-2022 10:03:10 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[05-Dec-2022 10:03:10 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[02-Mar-2023 10:09:58 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[02-Mar-2023 10:09:58 Africa/Lagos] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[02-Mar-2023 10:09:58 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[02-Mar-2023 15:19:05 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[02-Mar-2023 15:19:05 Africa/Lagos] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[02-Mar-2023 15:19:05 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[02-Mar-2023 15:19:51 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[02-Mar-2023 15:19:51 Africa/Lagos] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[02-Mar-2023 15:19:51 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[02-Mar-2023 15:20:19 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[02-Mar-2023 15:20:19 Africa/Lagos] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[02-Mar-2023 15:20:19 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[02-Mar-2023 15:20:52 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[02-Mar-2023 15:20:52 Africa/Lagos] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[02-Mar-2023 15:20:52 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[10-Mar-2023 15:37:56 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[10-Mar-2023 15:37:56 Africa/Lagos] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[10-Mar-2023 15:37:56 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[20-Apr-2023 12:32:10 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[20-Apr-2023 12:32:10 Africa/Lagos] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[20-Apr-2023 12:32:10 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[01-Jun-2023 10:09:51 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[01-Jun-2023 10:09:51 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[18-Aug-2023 11:59:00 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[18-Aug-2023 11:59:00 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[18-Oct-2023 10:14:31 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[18-Oct-2023 10:14:31 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
+[24-Oct-2023 16:00:59 Africa/Lagos] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wwwelshcon/public_html/DBcon/db_config.php on line 10
+[24-Oct-2023 16:00:59 Africa/Lagos] PHP Notice:  Undefined index: ActorID in /home/wwwelshcon/public_html/leave/updateROUTE.php on line 7
