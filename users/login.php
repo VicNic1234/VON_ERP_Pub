@@ -19,7 +19,7 @@ $_SESSION['ErrMsg'] = "";
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>ELSHCON ERP | version 0.1</title>
+	<title>VON ERP | version 0.1</title>
         <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
         <link rel="icon" href="../mBOOT/plant.png" type="image/png" sizes="10x10">
 	<link href="css/style.css" rel='stylesheet' type='text/css'/>
@@ -48,8 +48,7 @@ $_SESSION['ErrMsg'] = "";
 	</div>
 	<div class="profile-agileinfo" style="border-radius: 10px;">
 		<div class="pr-inner">
-			<!--<img src="../mBOOT/plant.png" alt=" " />-->
-			<h2>ELSHCON ERP</h2>
+			<h2>VON ERP</h2>
 			<h3><i class="fa fa-cog fa-spin fa-1x fa-fw"></i> GLOBAL DATAWARE HOUSE | version 0.1</h3>
                         <br/> 
 			<div class="col-md-12 skills-right">
@@ -98,7 +97,7 @@ $_SESSION['ErrMsg'] = "";
 	<div class="clear"></div>
 </div>
 <div class="footer-w3l">
-	<p class="agileinfo"> &copy; 2018 ELSHCON NIG. LIMITED. All Rights Reserved </p>
+	<p class="agileinfo"> &copy; 2018 ELCHABOD TECH. LIMITED. All Rights Reserved </p>
 </div>
 </div>
 <script src="js/bars.js"></script>	
