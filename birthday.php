@@ -21,8 +21,12 @@ $SN = 0;
         $CEO = $row['CEO']; 
         $CEO = $row['CEO']; 
         //$DBMth = substr($row['DoB'], 0, 5);
-        $date = DateTime::createFromFormat('m/d/Y', $row['DoB']);
-        $DBMth = $date->format('M-d');
+        if($row['DoB'] != "") {
+          $date = DateTime::createFromFormat('m/d/Y', $row['DoB']);
+          $DBMth = $date->format('M-d');
+        } else { $DBMth = "";}
+
+        
 $SN = $SN + 1;
 
         $Record .= '<tr>
