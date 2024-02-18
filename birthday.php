@@ -6,7 +6,7 @@ if ($_SESSION['Dept'] == "")
 { $_SESSION['ErrMsg'] = "ACCESS DENIED"; 
 header('Location: users/logout'); exit; }
 
-$resultStaff = mysqli_query($dbhandle, "SELECT * FROM users ORDER BY DoB"); 
+$resultStaff = mysqli_query($dbhandle, "SELECT * FROM users WHERE isActive = 1 ORDER BY DoB"); 
 
 
 $NoRowStaff = $resultStaff->num_rows;
