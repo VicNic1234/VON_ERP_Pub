@@ -5,7 +5,7 @@ Hi! We have decided make **VON ERP** an Open Source Project. as we have started 
 ## Installation Setup
 1.) Setup your local server or webserver either WAMP, XAMPP, LAMP or any Apache/Ngix server 
 
-2.) Clone the repo in the app directory in your local/web server. 
+2.) Clone the repo in the app directory into your local/web server. 
 for XAMPP **htdocs -> app folder**
 for WAMP **www -> app folder**
 
