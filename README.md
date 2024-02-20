@@ -14,7 +14,7 @@ for WAMP **www -> app folder**
 
 
 > #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> DB Configuration
-> Goto **app folder -> DBcon -> db_config.php** and **app folder -> DBcon -> db_configOOP.php** updated you database parameters
+> Goto **app folder -> DBcon -> db_config.php** and **app folder -> DBcon -> db_configOOP.php** update your database parameters
 
 
 ![](https://elchabod.com/VON%20ERP%20Login.png)
