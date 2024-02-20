@@ -14,5 +14,5 @@ for WAMP **www -> app folder**
 
 
 > #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> DB Configuration
-> Goto **app folder -> DBcon -> db_config.php** and **app folder -> DBcon -> db_configOOP.php** updated you databased parameters
+> Goto **app folder -> DBcon -> db_config.php** and **app folder -> DBcon -> db_configOOP.php** updated you database parameters
 
