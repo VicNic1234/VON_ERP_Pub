@@ -3,7 +3,7 @@
 Hi! We have decided make **VON ERP** an Open Source Project. as we have started implementing AI functionalities and templating.  This project is open for contributions.
 
 ## Installation Setup
-1.) Setup your local server or webserver either WAMP, XAMPP, LAMP or any Apache of Ngix server 
+1.) Setup your local server or webserver either WAMP, XAMPP, LAMP or any Apache/Ngix server 
 
 2.) Clone the repo in the app directory in your local/we server. 
 for XAMPP **htdocs -> app folder**
