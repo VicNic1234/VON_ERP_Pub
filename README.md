@@ -17,5 +17,5 @@ for WAMP **www -> app folder**
 > Goto  **app folder -> DBcon -> db_config.php** and **app folder -> DBcon -> db_configOOP.php** update your database parameters
 
 
-![](https://elchabod.com/VON%20ERP%20Login.png)
+![](https://elchabod.com/VON%20ERP%20LoginPage.png)
 
