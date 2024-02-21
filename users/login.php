@@ -109,7 +109,7 @@ $_SESSION['ErrMsg'] = "";
             <div class="clear"></div>
         </div>
         <div class="footer-w3l">
-            <p class="agileinfo"> &copy; 2018 ELCHABOD TECH. LIMITED. All Rights Reserved </p>
+            <p class="agileinfo"> &copy; 2021 ELCHABOD TECH. LIMITED. All Rights Reserved </p>
         </div>
     </div>
     <script src="js/bars.js"></script>
